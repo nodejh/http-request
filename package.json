@@ -1,0 +1,26 @@
+{
+  "name": "node-http-request",
+  "version": "0.0.1",
+  "description": "A light-weight http request",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejh/node-http-request.git"
+  },
+  "keywords": [
+    "http",
+    "request"
+  ],
+  "author": "nodejh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodejh/node-http-request/issues"
+  },
+  "homepage": "https://github.com/nodejh/http-request#readme"
+}
